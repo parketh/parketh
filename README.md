@@ -14,7 +14,7 @@
 <br>
 
 
-# Hi there 👋
+# Hi there, I'm Park 👋
 
 I am a full stack and smart contract developer, currently exploring the StarkNet ecosystem and zero knowledge applications in web3. I have a diverse background across engineering ([Full Stack Open](https://fullstackopen.com/en/)), data science and finance ([Google](https://github.com/google)), product management (at a VC-backed fintech startup), and venture capital ([Fabric Ventures](fabric.vc), the leading web3 VC in Europe). 
 
