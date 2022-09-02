@@ -31,4 +31,4 @@ I am a full stack and smart contract developer, currently exploring the StarkNet
 
 [StarkNet Recovery Service](https://github.com/Starknet-Recovery-Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. Won first place at the 2022 Starknet House Hackathon.
 
-[Envoy](https://github.com/parketh/envoy): A governance platform to allow decentralised delegate teams to more effectively manage on-chain governance.
+[Envoy](https://github.com/parketh/envoy): A governance platform for decentralised delegate teams to more effectively manage their on-chain governance. I'm currently dogfooding this tool to run the governance team at LBS Blockchain.
