@@ -33,4 +33,4 @@ I am a full stack and smart contract developer, currently exploring the StarkNet
 
 [Cairo data structures](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
 
-[Envoy](https://github.com/parketh/envoy): A governance platform for decentralised delegate teams to more effectively manage their on-chain governance. I'm currently dogfooding this tool to run the governance team at LBS Blockchain.
+[Envoy](https://github.com/parketh/envoy): A governance platform for decentralised delegate teams to more effectively manage their on-chain governance. I'm currently using this tool to better manage the governance team at LBS Blockchain.
