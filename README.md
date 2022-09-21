@@ -16,7 +16,11 @@
 
 # Hi there, I'm Park 👋
 
-I am a full stack and smart contract developer, currently exploring the StarkNet ecosystem and zero knowledge applications. I have a diverse background across engineering ([Full Stack Open](https://fullstackopen.com/en/)), data science ([Google](https://github.com/google)), product management (earnr, a VC-backed fintech startup), and venture capital ([Fabric Ventures](fabric.vc)). 
+I am a full stack and smart contract developer currently attending [RC](https://recurse.com), where I am building open source software for the [StarkNet](https://starknet.io/what-is-starknet/) ecosystem. I'm also spending time to learn more about smart contract development, zero knowledge proofs, system design, and programming in Cairo, C++ and Rust.
+
+Prior to RC, I interned as a financial data analyst at Google and worked on fundraising and technical research at [Fabric Ventures](http://fabric.vc), a European web3 VC. Before that, I was a CFA-qualified financial analyst focusing on asset valuation in the context of international arbitration.
+
+I am also studying for an MBA at London Business School, where I lead on-chain governance as part of [LBS Blockchain](https://lbs-blockchain.com/) and manage our delegation at [MakerDAO](https://makerdao.com/). 
 
 ## 😄 About me 
 
