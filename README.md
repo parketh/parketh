@@ -33,7 +33,7 @@ I am also studying for an MBA at London Business School, where I lead on-chain g
 
 [scaffold-stark](https://github.com/parketh/scaffold-stark): A forkable StarkNet developer stack focused on fast product iterations and reusable frontends, inspired by scaffold-eth. **Won second place at 2022 ethCC StarkNet hackathon**.
 
-[Switch](https://github.com/Starknet-Recovery-Service) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
+[Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
 
 [cairo-ds](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
 
