@@ -27,7 +27,7 @@ I am also studying for an MBA at London Business School, where I lead on-chain g
 - 🌱 I’m currently learning about ZK applications and building in the web3 space.
 - 👯 I’m looking to collaborate on novel ideas in web3, upcoming hackathons, particularly in StarkNet and other Layer 2 ecosystems.
 - 📫 How to reach me: @parkyeuth on Telegram, @park_eth on LinkedIn, or by email [yeungparkhay@gmail.com](mailto:yeungparkhay@gmail.com)
-- ⚡ Fun fact: I'm from Hong Kong, and I used to be a speedcuber.
+- ⚡ Fun fact: I'm from Hong Kong. I used to be into speedcubing, amongst other things.
 
 ## 💻 Projects
 
