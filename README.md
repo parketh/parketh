@@ -35,6 +35,6 @@ I am also studying for an MBA at London Business School, where I lead on-chain g
 
 [Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
 
-[cairo-ds](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
+[cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
 
 [Envoy](https://github.com/parketh/envoy): A governance platform for decentralised delegate teams to more effectively manage their on-chain governance. I'm currently using this tool to better manage the governance team at LBS Blockchain.
