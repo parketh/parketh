@@ -31,6 +31,8 @@ I am also studying for an MBA at London Business School, where I lead on-chain g
 
 ## 💻 Projects
 
+[Stark X](https://github.com/stark-dex): Proof of concept for a natively cross-chain Central Limit Order Book (CLOB) DEX, built on StarkNet.
+
 [scaffold-stark](https://github.com/parketh/scaffold-stark): A forkable StarkNet developer stack focused on fast product iterations and reusable frontends, inspired by scaffold-eth. **Won second place at 2022 ethCC StarkNet hackathon**.
 
 [Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
