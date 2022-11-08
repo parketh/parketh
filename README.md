@@ -16,7 +16,7 @@
 
 # Hi there, I'm Park 👋
 
-I am a full stack and smart contract developer currently attending [RC](https://recurse.com), where I am building open source software for the [StarkNet](https://starknet.io/what-is-starknet/) ecosystem. I'm also spending time to learn more about smart contract development, zero knowledge proofs, system design, and programming in Cairo, C++ and Rust.
+I am a full stack and smart contract developer, currently building open source software for the [StarkNet](https://starknet.io/what-is-starknet/) ecosystem. I'm also spending time to learn more about smart contract development, zero knowledge proofs, system design, and programming in Solidity, Cairo, and Rust.
 
 Prior to RC, I interned as a financial data analyst at Google and worked on fundraising and technical research at [Fabric Ventures](http://fabric.vc), a European web3 VC. Before that, I was a CFA-qualified financial analyst focusing on asset valuation in the context of international arbitration.
 
