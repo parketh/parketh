@@ -20,7 +20,7 @@ I am a full stack and smart contract developer, currently building DeFi and infr
 
 Prior to retraining as a software developer, I interned as a financial data analyst at Google and worked on fundraising and technical research at [Fabric Ventures](http://fabric.vc), a European web3 VC. Before that, I was a CFA-qualified financial analyst focusing on asset valuation in the context of international arbitration.
 
-I am also studying for an MBA at London Business School. There, I lead on-chain governance as part of [LBS Blockchain](https://lbs-blockchain.com/) and manage our delegation at [MakerDAO](https://makerdao.com/). 
+I am also studying for an MBA at London Business School. There, I lead on-chain governance as part of [LBS Blockchain](https://lbs-blockchain.com/) and manage our delegation at [MakerDAO](https://makerdao.com/) and [Aave](https://aave.com/). 
 
 ## 😄 About me 
 
