@@ -16,18 +16,17 @@
 
 # Hi there, I'm Park 👋
 
-I am a full stack and smart contract developer, currently building open source software for the [StarkNet](https://starknet.io/what-is-starknet/) ecosystem. I'm also spending time to learn more about smart contract development, zero knowledge proofs, system design, and programming in Solidity, Cairo, and Rust.
+I am a full stack and smart contract developer, currently building DeFi and infrastructure tooling for the [StarkNet](https://starknet.io/what-is-starknet/) ecosystem. I spend most of my time building software and learning about zero knowledge proofs, blockchain scaling, and programming in Solidity, Cairo, and Rust.
 
-Prior to RC, I interned as a financial data analyst at Google and worked on fundraising and technical research at [Fabric Ventures](http://fabric.vc), a European web3 VC. Before that, I was a CFA-qualified financial analyst focusing on asset valuation in the context of international arbitration.
+Prior to retraining as a software developer, I interned as a financial data analyst at Google and worked on fundraising and technical research at [Fabric Ventures](http://fabric.vc), a European web3 VC. Before that, I was a CFA-qualified financial analyst focusing on asset valuation in the context of international arbitration.
 
-I am also studying for an MBA at London Business School, where I lead on-chain governance as part of [LBS Blockchain](https://lbs-blockchain.com/) and manage our delegation at [MakerDAO](https://makerdao.com/). 
+I am also studying for an MBA at London Business School. There, I lead on-chain governance as part of [LBS Blockchain](https://lbs-blockchain.com/) and manage our delegation at [MakerDAO](https://makerdao.com/). 
 
 ## 😄 About me 
 
-- 🌱 I’m currently learning about ZK applications and building in the web3 space.
-- 👯 I’m looking to collaborate on novel ideas in web3, upcoming hackathons, particularly in StarkNet and other Layer 2 ecosystems.
-- 📫 How to reach me: @parkyeuth on Telegram, @park_eth on LinkedIn, or by email [yeungparkhay@gmail.com](mailto:yeungparkhay@gmail.com)
-- ⚡ Fun fact: I'm from Hong Kong. I used to be into speedcubing, amongst other things.
+- 🌱 I’m currently learning about ZK applications and novel technology solutions for blockchain scaling.
+- 📫 How to reach me: @parkyeuth on Telegram, @park_eth on Twitter, or by email [yeungparkhay@gmail.com](mailto:yeungparkhay@gmail.com)
+- ⚡ I'm from Hong Kong and currently live in London, UK.
 
 ## 💻 Projects
 
