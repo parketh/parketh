@@ -24,9 +24,10 @@ I am also studying for an MBA at London Business School. There, I lead on-chain 
 
 ## 😄 About me 
 
-- 🌱 I’m currently learning about ZK applications and novel technology solutions for blockchain scaling.
+- 🌱 I’m currently learning more about ZK applications and novel technology solutions for blockchain scaling.
+- 🤝 Open to collaborations, knowledge sharing and exchange with other web3 builders
 - 📫 How to reach me: @parkyeuth on Telegram, @park_eth on Twitter, or by email [yeungparkhay@gmail.com](mailto:yeungparkhay@gmail.com)
-- ⚡ I'm from Hong Kong and currently live in London, UK.
+- 🖊️ I also publish a web3 blog called [Open Source Finance](http://opensourceweb.substack.com/), which tries to make web3 concepts easy to understand for non-web3 natives.
 
 ## 💻 Projects
 
