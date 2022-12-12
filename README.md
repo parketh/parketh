@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
   <br><br>
   <div id="badges">
+   <a href="https://twitter.com/park_eth">
+    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/park-yeung/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/park_eth">
-    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
