@@ -31,7 +31,7 @@ I am also studying for an MBA at London Business School. There, I lead on-chain 
 
 ## 💻 Projects
 
-[Stark X](https://github.com/stark-dex): A native cross-chain Order Book Decentralised Exchange (DEX), built on StarkNet. **Won first place at 2022 Encode StarkNet Autumn hackathon**.
+[Sphinx](https://github.com/sphinx-dex): A native cross-chain Order Book Decentralised Exchange (DEX), built on StarkNet. **Won first place at 2022 Encode StarkNet Autumn hackathon**.
 
 [Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
 
