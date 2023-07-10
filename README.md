@@ -13,13 +13,13 @@
 
 <br>
 
-# Hi there, I'm Park
+## Hi there, I'm Park 👋🏽
 
-I'm a web3 founder and financial analyst turned smart contract + full stack developer.
+- I'm a web3 founder and financial analyst turned smart contract developer.
 
-I'm currently building [Sphinx](https://github.com/sphinx-dex), a novel AMM for launching, trading and earning tokens on Starknet. 
+- I'm currently building [Sphinx](https://github.com/sphinx-dex), a novel AMM for launching, trading and earning tokens on Starknet. 
 
-I've previously worked at companies like [Google](https://github.com/google) and [Fabric Ventures](https://github.com/fabric-ventures). I also hold an MBA from London Business School.
+- I've previously worked at companies like [Google](https://github.com/google) and [Fabric Ventures](https://github.com/fabric-ventures). I also hold an MBA from London Business School.
 
 ## Stats
 
@@ -29,8 +29,8 @@ I've previously worked at companies like [Google](https://github.com/google) and
 
 ## Other projects
 
-[Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. **Won first place at the 2022 Starknet House Hackathon**.
+- [Switch](https://github.com/switch-recover/switch) (ex: StarkNet Recovery Service): The first fully trustless and on-chain wallet recovery service for Ethereum Externally Owned Accounts (EOAs), powered by storage proofs on StarkNet. 1st place at the 2022 Starknet House Hackathon.
 
-[scaffold-stark](https://github.com/parketh/scaffold-stark): A forkable StarkNet developer stack focused on fast product iterations and reusable frontends, inspired by scaffold-eth. **Won second place at 2022 ethCC StarkNet hackathon**.
+- [scaffold-stark](https://github.com/parketh/scaffold-stark): A forkable StarkNet developer stack focused on fast product iterations and reusable frontends, inspired by scaffold-eth. 2nd place at 2022 ethCC StarkNet hackathon.
 
-[cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
+- [cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage. 
