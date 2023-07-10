@@ -15,9 +15,11 @@
 
 # Hi there, I'm Park
 
-I'm a web3 founder and full stack + smart contract developer. I've previously worked at companies like [Google](https://github.com/google) and [Fabric Ventures](https://github.com/fabric-ventures).
+I'm a web3 founder and financial analyst turned smart contract + full stack developer.
 
 I'm currently building [Sphinx](https://github.com/sphinx-dex), a novel AMM for launching, trading and earning tokens on Starknet. 
+
+I've previously worked at companies like [Google](https://github.com/google) and [Fabric Ventures](https://github.com/fabric-ventures). I also hold an MBA from London Business School.
 
 ## Stats
 
