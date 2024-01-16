@@ -15,11 +15,7 @@
 
 ## Hi there, I'm Park 👋🏽
 
-- I'm a web3 founder and financial analyst turned smart contract developer.
-
-- I'm currently building [Sphinx](https://github.com/sphinx-dex), a novel AMM for launching, trading and earning tokens on Starknet. 
-
-- I've previously worked at companies like [Google](https://github.com/google) and [Fabric Ventures](https://github.com/fabric-ventures). I also hold an MBA from London Business School.
+- I'm the founder of [Haiko](https://github.com/haiko-xyz), a new AMM for the Starknet ecosystem offering simple access to market making yield with strategies. 
 
 ## Stats
 
