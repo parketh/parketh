@@ -15,7 +15,7 @@
 
 ## Hi there, I'm Park 👋🏽
 
-- I'm the founder of [Haiko](https://github.com/haiko-xyz), a new AMM for the Starknet ecosystem offering simple access to market making yield with strategies. 
+- I'm the founder of [Haiko](https://github.com/haiko-xyz), a powerful V4 AMM for Starknet that automates liquidity provision with strategies. 
 
 ## Stats
 
