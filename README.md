@@ -16,9 +16,3 @@
 ## Hi there, I'm Park 👋🏽
 
 I'm building [Haiko](https://github.com/haiko-xyz), a powerful V4 AMM for Starknet that automates liquidity provision with strategies. 
-
-## Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parketh&theme=gotham&layout=compact" alt="parketh" />
-</div>
