@@ -15,4 +15,4 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I'm building [Haiko](https://github.com/haiko-xyz), a powerful V4 AMM for Starknet that automates liquidity provision with strategies. 
+I'm building [Haiko](https://github.com/haiko-xyz), a powerful liquidity exchange protocol for Starknet that automates liquidity provision with strategies. 
