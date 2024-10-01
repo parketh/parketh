@@ -15,4 +15,6 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I'm building [Haiko](https://github.com/haiko-xyz), a powerful liquidity exchange protocol for Starknet that automates liquidity provision with strategies. 
+I'm building:
+- [Haiko](https://github.com/haiko-xyz), a powerful liquidity exchange protocol for Starknet that automates liquidity provision with strategies
+- [Snapchain](https://github.com/snapchain), a Bitcoin shared security solution leveraging [Babylon's](https://github.com/babylonlabs-io/babylon) BTC staking primitive
