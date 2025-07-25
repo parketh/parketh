@@ -12,4 +12,4 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I'm building [GitFish](https://github.com/gitfishdev), a platform to tokenize and trade GitHub repos (and support open source).
+I'm building [GitFish](https://github.com/gitfishdev), a funding platform for open source projects.
