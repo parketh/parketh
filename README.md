@@ -24,9 +24,9 @@ I'm currently building [GitFish](https://github.com/gitfishdev), a funding platf
 
 **Other projects and libraries:**
 
-- Founded [Haiko](https://github.com/haiko-xyz), an advanced AMM with algorithmic LP strategies on Starknet, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+- [Haiko](https://github.com/haiko-xyz): an advanced AMM with algorithmic LP strategies on Starknet, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
   
-- Contributed to [Babylon](https://github.com/babylonlabs-io/babylon) by building an OP-stack integration for their trustless Bitcoin staking primitive
+- [Babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for their trustless Bitcoin staking primitive
 
 - [Private Money](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
   
