@@ -20,7 +20,7 @@ I am a DeFi protocol engineer blending institutional finance expertise with deep
 
 I'm currently building [GitFish](https://github.com/gitfishdev), a funding platform for open source projects. 
 
-<br>
+——
 
 **Other projects and libraries:**
 
@@ -36,8 +36,8 @@ I'm currently building [GitFish](https://github.com/gitfishdev), a funding platf
 
 - [Switch](https://github.com/switch-recover/switch) (ex: Starknet Recovery Service): first fully trustless and on-chain wallet recovery service for Ethereum EOAs, powered by SNARKs and storage proofs (1st place winner at 2022 Starknet House Hackathon)
 
-- [scaffold-stark](https://github.com/parketh/scaffold-stark): forkable Starknet dev stack focused on rapid contract iterations and reusable frontends, inspired by scaffold-eth (2nd place win at 2022 ethCC hackathon)
-
 - [cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo 0 library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage
+ 
+- [scaffold-stark](https://github.com/parketh/scaffold-stark): forkable Starknet dev stack focused on rapid contract iterations and reusable frontends, inspired by scaffold-eth (2nd place win at 2022 ethCC hackathon)
 
 <br>
