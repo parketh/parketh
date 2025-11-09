@@ -30,11 +30,11 @@ I'm currently building [GitFish](https://github.com/gitfishdev), a funding platf
 
 - [Private Money](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
   
-- [Napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a Madara app-chain. Built as an exploration of Madara during the 2023 Starknet Summit Hacker House in Palo Alto (winner).
+- [Napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a Madara app-chain to explore the Madara stack
 
 - [Sphinx](https://github.com/sphinx-protocol/sphinx-core): natively cross-chain and composable CLOB DEX deployed on Starknet for trustless settlement and liquidity composition, powered by storage and SNARK proofs (1st place win at Starknet Encode Autumn Hackathon)
 
-- [Switch](https://github.com/switch-recover/switch) (ex: Starknet Recovery Service): first fully trustless and on-chain wallet recovery service for Ethereum EOAs, powered by SNARKs and storage proofs (1st place winner at 2022 Starknet House Hackathon)
+- [Switch](https://github.com/switch-recover/switch) (ex: Starknet Recovery Service): first fully trustless and on-chain wallet recovery service for Ethereum EOAs, powered by SNARKs and storage proofs (1st place win at 2022 Starknet House Hackathon)
 
 - [cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo 0 library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage
  
