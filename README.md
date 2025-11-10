@@ -1,11 +1,18 @@
 <div id="header" align="center">
   <img width="1920" height="800" alt="image" src="https://github.com/user-attachments/assets/7dd04127-694d-4329-881a-170e8ce6d10f" />
   <br><br>
+  <div id="badges">
+   <a href="https://twitter.com/park_eth">
+    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/park-yeung/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
   <a href="https://twitter.com/intent/follow?screen_name=park_eth">
     <img width="135" alt="Follow @park_eth on X"
          src="https://img.shields.io/twitter/follow/park_eth?style=social">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/parketh">
     <img width="100" alt="Follow parketh on GitHub"
          src="https://img.shields.io/github/followers/parketh?label=follow&style=social">
