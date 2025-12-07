@@ -23,7 +23,7 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I am a crypto native protocol engineer with deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. I founded several projects as a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10).
+I am a crypto native protocol engineer with deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. As a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), I built projects that served tens of thousands of users and settled tens of millions in transaction volumes.
 
 ——
 
