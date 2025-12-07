@@ -23,9 +23,7 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I am a DeFi protocol engineer with deep experience in building audited systems across EVM, Starknet, Solana and Bitcoin. 
-
-I'm currently building [GitFish](https://github.com/gitfishdev), a funding platform for open source projects. 
+I am a crypto native protocol engineer with deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. I founded several projects as a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10).
 
 ——
 
