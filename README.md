@@ -23,7 +23,7 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I am a DeFi protocol engineer blending institutional finance expertise with deep experience in building audited systems across EVM, Starknet, Solana and Bitcoin. 
+I am a DeFi protocol engineer with deep experience in building audited systems across EVM, Starknet, Solana and Bitcoin. 
 
 I'm currently building [GitFish](https://github.com/gitfishdev), a funding platform for open source projects. 
 
@@ -32,6 +32,8 @@ I'm currently building [GitFish](https://github.com/gitfishdev), a funding platf
 **Other projects and libraries:**
 
 - [Haiko](https://github.com/haiko-xyz): an advanced AMM with algorithmic LP strategies on Starknet, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+
+- [GitFish](https://github.com/gitfishdev), a Solana funding platform for open source projects
   
 - [Babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for their trustless Bitcoin staking primitive
 
@@ -43,7 +45,7 @@ I'm currently building [GitFish](https://github.com/gitfishdev), a funding platf
 
 - [Switch](https://github.com/switch-recover/switch) (ex: Starknet Recovery Service): first fully trustless and on-chain wallet recovery service for Ethereum EOAs, powered by SNARKs and storage proofs (1st place win at 2022 Starknet House Hackathon)
 
-- [merkle-distributor](https://github.com/parketh/merkle-distributor): token reward distribution service for requesting and verifying Merkle proofs via REST API
+- [merkle-distributor](https://github.com/parketh/merkle-distributor): token reward distribution service for requesting and verifying Merkle proofs via REST API, written in Rust for blazing fast performance
 
 - [cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo 0 library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage
  
