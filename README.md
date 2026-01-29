@@ -23,11 +23,15 @@
 
 ## Hi there, I'm Park 👋🏽
 
-I am a crypto native protocol engineer with deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. As a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), I built projects that served tens of thousands of users and settled tens of millions in transaction volumes.
+I am currently a protocol engineer at [YO](https://github.com/yoprotocol), focused on bringing optimized yield to Solana. 
+
+I was previously a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), where I built projects that served tens of thousands of users and settled tens of millions in transaction volumes. I have deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. 
 
 ——
 
-**Other projects and libraries:**
+**Projects and libraries:**
+
+- [Yield Optimizer (YO)](https://github.com/yoprotocol): cross-chain yield vault protocol for constantly rebalanced, optimized DeFi yield
 
 - [Haiko](https://github.com/haiko-xyz): an advanced AMM with algorithmic LP strategies on Starknet, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
 
