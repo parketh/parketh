@@ -18,7 +18,7 @@ Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10),
 
 - [pm-core](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
   
-- [Napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
+- [napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
 
 - [switch](https://github.com/switch-recover/switch): fully trustless, on-chain wallet recovery service for Ethereum EOAs, using a dead man switch based on storage proofs (1st place win 2022 Starknet House)
 
