@@ -1,56 +1,44 @@
-<div id="header" align="center">
-  <img width="1920" height="800" alt="image" src="https://github.com/user-attachments/assets/7dd04127-694d-4329-881a-170e8ce6d10f" />
-  <br><br>
-  <div id="badges">
-   <a href="https://twitter.com/park_eth">
-    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/park-yeung/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <a href="https://twitter.com/intent/follow?screen_name=park_eth">
-    <img width="135" alt="Follow @park_eth on X"
-         src="https://img.shields.io/twitter/follow/park_eth?style=social">
-  </a>
-  <a href="https://github.com/parketh">
-    <img width="100" alt="Follow parketh on GitHub"
-         src="https://img.shields.io/github/followers/parketh?label=follow&style=social">
-  </a>
-</div>
-
-<br>
-
 ## Hi there, I'm Park 👋🏽
 
-I am currently a protocol engineer at [YO](https://github.com/yoprotocol), focused on bringing optimized yield to Solana. 
+I am a blockchain protocol engineer at [YO](https://github.com/yoprotocol), focused on bringing optimized yield to Solana. 
 
-I was previously a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), where I built projects that served tens of thousands of users and settled tens of millions in transaction volumes. I have deep experience building audited on-chain systems across EVM, Starknet, Solana and Bitcoin. 
+Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), where I built projects that served tens of thousands of users and settled tens of millions in transaction volumes. Shipped audited production systems across EVM, Starknet, Solana and Bitcoin. 
 
 ——
 
-**Projects and libraries:**
+### Select projects
 
-- [Yield Optimizer (YO)](https://github.com/yoprotocol): cross-chain yield vault protocol for constantly rebalanced, optimized DeFi yield
+- [YO](https://github.com/yoprotocol): cross-chain yield vault protocol for constantly rebalanced, optimized DeFi yield
 
-- [Haiko](https://github.com/haiko-xyz): an advanced AMM with algorithmic LP strategies on Starknet, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+- [haiko](https://github.com/haiko-xyz): automated market maker (AMM) protocol with algorithmic LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
 
-- [GitFish](https://github.com/gitfishdev), a Solana funding platform for open source projects
+- [gitfish](https://github.com/gitfishdev), a Solana-based funding platform for open source projects
   
-- [Babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for their trustless Bitcoin staking primitive
+- [babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for Babylon's trustless Bitcoin staking primitive
 
-- [Private Money](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
+- [pm-core](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
   
-- [Napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a Madara app-chain to explore the Madara stack
+- [Napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
 
-- [Sphinx](https://github.com/sphinx-protocol/sphinx-core): natively cross-chain and composable CLOB DEX deployed on Starknet for trustless settlement and liquidity composition, powered by storage and SNARK proofs (1st place win at Starknet Encode Autumn Hackathon)
+- [switch](https://github.com/switch-recover/switch): fully trustless, on-chain wallet recovery service for Ethereum EOAs, using a dead man switch based on storage proofs (1st place win 2022 Starknet House)
 
-- [Switch](https://github.com/switch-recover/switch) (ex: Starknet Recovery Service): first fully trustless and on-chain wallet recovery service for Ethereum EOAs, powered by SNARKs and storage proofs (1st place win at 2022 Starknet House Hackathon)
-
-- [merkle-distributor](https://github.com/parketh/merkle-distributor): token reward distribution service for requesting and verifying Merkle proofs via REST API, written in Rust for blazing fast performance
-
-- [cairo-data-structures](https://github.com/parketh/cairo-data-structures): Cairo 0 library of common data structures (e.g. binary trees, heaps and linked lists) optimised for fast execution, read / write capability and on-chain storage
+- [merkle-distributor](https://github.com/parketh/merkle-distributor): open source token reward distribution service for requesting and verifying Merkle proofs via REST API, written in Rust
  
-- [scaffold-stark](https://github.com/parketh/scaffold-stark): forkable Starknet dev stack focused on rapid contract iterations and reusable frontends, inspired by scaffold-eth (2nd place win at 2022 ethCC hackathon)
+- [scaffold-stark](https://github.com/parketh/scaffold-stark): forkable Starknet dev stack focused on rapid contract iterations and reusable frontends (winner 2022 ethCC hackathon)
 
-<br>
+---
+
+### Socials
+
+<div id="badges">
+ <a href="https://twitter.com/park_eth">
+  <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/park-yeung/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+<a href="https://twitter.com/intent/follow?screen_name=park_eth">
+  <img width="135" alt="Follow @park_eth on X"
+       src="https://img.shields.io/twitter/follow/park_eth?style=social">
+</a>
