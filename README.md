@@ -12,19 +12,19 @@ Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10),
 
 - [haiko](https://github.com/haiko-xyz): algorithmic market maker protocol with customizable, expressive LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
 
-- [solprobe](https://github.com/parketh/solprobe): a better Solana block explorer that infers a full typed interface for directly invoking program commands and reading account state 
+- [solprobe](https://github.com/parketh/solprobe): a better Solana explorer that infers a full typed interface for directly invoking program commands and reading account state 
 
 - [gitfish](https://github.com/gitfishdev), a Solana-based funding platform for open source projects
   
 - [babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for Babylon's trustless Bitcoin staking primitive
 
-- [pm-core](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on Base (or any EVM chain)
+- [pm-core](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on EVM
   
 - [napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
 
-- [switch](https://github.com/switch-recover/switch): fully trustless, on-chain wallet recovery service for Ethereum EOAs, using a dead man switch based on storage proofs (1st place win 2022 Starknet House)
+- [switch](https://github.com/switch-recover/switch): fully trustless, on-chain wallet recovery service for Ethereum EOAs, using a dead man switch via storage proofs (1st place win 2022 Starknet House)
 
-- [merkle-distributor](https://github.com/parketh/merkle-distributor): open source token reward distribution service for requesting and verifying Merkle proofs via REST API, written in Rust
+- [merkle-distributor](https://github.com/parketh/merkle-distributor): open source token reward distribution service for requesting and verifying Merkle proofs, written in Rust
  
 - [scaffold-stark](https://github.com/parketh/scaffold-stark): forkable Starknet dev stack focused on rapid contract iterations and reusable frontends (winner 2022 ethCC hackathon)
 
