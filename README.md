@@ -10,7 +10,9 @@ Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10),
 
 - [YO](https://github.com/yoprotocol): cross-chain yield vault protocol for constantly rebalanced, optimized DeFi yield
 
-- [haiko](https://github.com/haiko-xyz): automated market maker (AMM) protocol with algorithmic LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+- [haiko](https://github.com/haiko-xyz): algorithmic market maker protocol with customizable, expressive LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+
+- [solprobe](https://github.com/parketh/solprobe): a better Solana block explorer that infers a full typed interface for directly invoking program commands and reading account state 
 
 - [gitfish](https://github.com/gitfishdev), a Solana-based funding platform for open source projects
   
