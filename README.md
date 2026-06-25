@@ -44,3 +44,7 @@ Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10),
   <img width="135" alt="Follow @park_eth on X"
        src="https://img.shields.io/twitter/follow/park_eth?style=social">
 </a>
+<a href="https://github.com/parketh">
+    <img width="100" alt="Follow parketh on GitHub"
+         src="https://img.shields.io/github/followers/parketh?label=follow&style=social">
+</a>
