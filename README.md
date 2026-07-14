@@ -20,7 +20,7 @@ I enjoy researching and experimenting with novel cryptography primitives such as
   
 - [babylon](https://github.com/babylonlabs-io/babylon): built OP-stack L2 integration for Babylon's trustless Bitcoin staking primitive
 
-- [pm-core](https://github.com/parketh/pm-core): a modern, gas-optimized fork of Tornado Cash enabling private transfers on EVM
+- [pm-core](https://github.com/parketh/pm-core): zk-SNARK-based private transfer protocol enabling anonymous native and ERC20 transfers on Base
   
 - [napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
 
