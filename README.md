@@ -22,7 +22,7 @@ I enjoy researching and experimenting with novel cryptography primitives such as
 
 - [hashsafe](https://github.com/orgs/hashsafe/repositories): MPC-based seed phrase manager with sharded recovery across browser extension, mobile passkey and social login
 
-- [pm-core](https://github.com/parketh/pm-core): zk-SNARK-based private transfer protocol enabling anonymous native and ERC20 transfers on Base
+- [pm-core](https://github.com/parketh/pm-core): zk-SNARK-based private transfer protocol enabling compliant private ETH transfers on EVM
   
 - [napa](https://github.com/parketh/napa): toy implementation of an on-chain options order book protocol written in Cairo and deployed as a [Madara](https://www.madara.build/) app-chain
 
