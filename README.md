@@ -4,15 +4,17 @@ I am a blockchain protocol engineer at [YO](https://github.com/yoprotocol), focu
 
 Previously, I was a Founder Fellow at [Alliance](https://alliance.xyz/) (ALL10), where I built projects that served tens of thousands of users and settled tens of millions in transaction volumes. Shipped audited production systems across EVM, Starknet, Solana and Bitcoin. 
 
+I enjoy researching and experimenting with novel cryptography primitives such as ZK, MPC, formal verification, and new workflows such as AI security audits, harness engineering.
+
 ——
 
 ### Select projects
 
 - [YO](https://github.com/yoprotocol): cross-chain yield vault protocol for constantly rebalanced, optimized DeFi yield
 
-- [haiko](https://github.com/haiko-xyz): algorithmic market maker protocol with customizable, expressive LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
+- [sollama](https://github.com/parketh/sollama): agentic smart contract auditor for Solana programs
 
-- [solprobe](https://github.com/parketh/solprobe): a better Solana explorer that infers a full typed interface for directly invoking program commands and reading account state 
+- [haiko](https://github.com/haiko-xyz): algorithmic market maker protocol with customizable, expressive LP strategies, audited by [Trail of Bits](https://github.com/trailofbits) and [Nethermind](https://github.com/NethermindEth/nethermind)
 
 - [gitfish](https://github.com/gitfishdev), a Solana-based funding platform for open source projects
   
